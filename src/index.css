@@ -54,7 +54,7 @@ body {
   align-items: center;
   gap: 10px;
 }
-.nav-logo img { width: 55px; }
+.nav-logo img { width: 40px; }
 .nav-links {
   display: flex;
   gap: 20px;
@@ -63,7 +63,7 @@ body {
 .nav-links a {
   text-decoration: none;
   color: var(--bg-color);
-  font-weight: 500;
+  font-weight: 300;
   transition: color 0.2s;
 }
 /* --- Hero Section --- */
@@ -71,7 +71,7 @@ body {
   min-height: 70vh;
   display: flex;
   align-items: center;
-  padding-top: 80px;
+  padding-top: 120px;
 }
 .hero-content {
   display: flex;
