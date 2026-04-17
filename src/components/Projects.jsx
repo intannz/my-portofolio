@@ -16,7 +16,7 @@ export default function Projects() {
       title: "National RedList Assessment",
       desc: "Web-based information system for assessing and monitoring the national conservation status of species using Red List standards.",
       tech: ["Laravel", "TailwindCSS", "AlpineJS"],
-      link: "https://nrla.pemantau.id/"
+      link: "https://nrla.pemantau.id/articles"
     },
     {
       title: "FILKOM Training Portal",
